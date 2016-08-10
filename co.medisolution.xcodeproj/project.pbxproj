@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2AB97A281D5AAFDA0063EB5E /* MembershipSignUp.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AB97A271D5AAFDA0063EB5E /* MembershipSignUp.storyboard */; };
+		2AB97A2B1D5AFD130063EB5E /* SignUpMain.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AB97A2A1D5AFD130063EB5E /* SignUpMain.m */; };
 		2AC781DB1D599C0800B86BE1 /* MembershipLogin.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AC781DA1D599C0800B86BE1 /* MembershipLogin.storyboard */; };
 		2AC781DE1D59A3C100B86BE1 /* LoginMain.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AC781DD1D59A3C100B86BE1 /* LoginMain.m */; };
 		2AC781E11D59ED1600B86BE1 /* LoginNewPasswordCreate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AC781E01D59ED1600B86BE1 /* LoginNewPasswordCreate.m */; };
@@ -22,6 +23,8 @@
 
 /* Begin PBXFileReference section */
 		2AB97A271D5AAFDA0063EB5E /* MembershipSignUp.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MembershipSignUp.storyboard; sourceTree = "<group>"; };
+		2AB97A291D5AFD130063EB5E /* SignUpMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignUpMain.h; sourceTree = "<group>"; };
+		2AB97A2A1D5AFD130063EB5E /* SignUpMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignUpMain.m; sourceTree = "<group>"; };
 		2AC781DA1D599C0800B86BE1 /* MembershipLogin.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MembershipLogin.storyboard; sourceTree = "<group>"; };
 		2AC781DC1D59A3C100B86BE1 /* LoginMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginMain.h; sourceTree = "<group>"; };
 		2AC781DD1D59A3C100B86BE1 /* LoginMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginMain.m; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 				2AC781DD1D59A3C100B86BE1 /* LoginMain.m */,
 				2AC781DF1D59ED1600B86BE1 /* LoginNewPasswordCreate.h */,
 				2AC781E01D59ED1600B86BE1 /* LoginNewPasswordCreate.m */,
+				2AB97A291D5AFD130063EB5E /* SignUpMain.h */,
+				2AB97A2A1D5AFD130063EB5E /* SignUpMain.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -190,6 +195,7 @@
 				DCA5AE2C1D598C6F0075B7AD /* ViewController.m in Sources */,
 				DCA5AE321D598C6F0075B7AD /* co_medisolution.xcdatamodeld in Sources */,
 				DCA5AE291D598C6F0075B7AD /* AppDelegate.m in Sources */,
+				2AB97A2B1D5AFD130063EB5E /* SignUpMain.m in Sources */,
 				2AC781DE1D59A3C100B86BE1 /* LoginMain.m in Sources */,
 				DCA5AE261D598C6F0075B7AD /* main.m in Sources */,
 				2AC781E11D59ED1600B86BE1 /* LoginNewPasswordCreate.m in Sources */,
