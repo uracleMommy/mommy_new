@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="POt-FL-3FG">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="POt-FL-3FG">
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
@@ -26,7 +26,7 @@
             </objects>
             <point key="canvasLocation" x="-171" y="478"/>
         </scene>
-        <!--회원가입-->
+        <!--회원가입(테스트)-->
         <scene sceneID="lWv-ON-0At">
             <objects>
                 <viewController id="kFE-e9-yMh" sceneMemberID="viewController">
@@ -312,7 +312,7 @@
                             <constraint firstItem="i1n-xS-3gT" firstAttribute="top" secondItem="0w0-KU-V80" secondAttribute="bottom" id="wqk-XN-Ym5"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="회원가입" id="BG7-GQ-Zb9"/>
+                    <navigationItem key="navigationItem" title="회원가입(테스트)" id="BG7-GQ-Zb9"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jbV-ps-j7V" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
